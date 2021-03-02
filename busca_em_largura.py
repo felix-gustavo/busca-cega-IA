@@ -1,3 +1,6 @@
+# Fonte: 
+# https://gist.github.com/thbighead/2e38b9b7df7054ae7d6389d090f50aa1
+
 grafo = {
     'a': ['b', 'd', 'e'],
     'b': ['a', 'c', 'e'],

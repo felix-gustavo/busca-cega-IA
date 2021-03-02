@@ -1,3 +1,6 @@
+# Fonte:
+# https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/
+
 # Python3 program to print DFS traversal
 # from a given given graph
 from collections import defaultdict
